@@ -5,14 +5,17 @@ into declarative code.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**
 
-- [Example 1. Impractical demo](#example-1-impractical-demo)
-- [Example 2. Practical demo](#example-2-practical-demo)
+- [Examples](#examples)
+  - [Example 1. Impractical demo](#example-1-impractical-demo)
+  - [Example 2. Practical demo](#example-2-practical-demo)
+- [Usage. Chain description conventions and flags](#usage-chain-description-conventions-and-flags)
 - [FAQ](#faq)
   - [Q1. Why don't you use `call-chain` in the modules tests?](#q1-why-dont-you-use-call-chain-in-the-modules-tests)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- *generated with [DocToc](https://github.com/thlorenz/doctoc)* -->
 
 ## Examples
 
