@@ -1,0 +1,28 @@
+{
+  "name": "call-chain",
+  "version": "1.0.0",
+  "description": "Switch from imperative chained calls to declarative chain description and invocation",
+  "main": "call-chain.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OleksiyRudenko/call-chain.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "chaining"
+  ],
+  "author": "Oleksiy Rudenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OleksiyRudenko/call-chain/issues"
+  },
+  "homepage": "https://github.com/OleksiyRudenko/call-chain#readme",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1"
+  }
+}
